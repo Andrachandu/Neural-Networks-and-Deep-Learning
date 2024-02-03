@@ -2,7 +2,7 @@ Input_file = open("input.txt", "r")
 #Write the number of words count and split the data from input file
 output_file = open("output.txt", "w")
 
-content = {}
+content= {}
 
 
 for line in Input_file:

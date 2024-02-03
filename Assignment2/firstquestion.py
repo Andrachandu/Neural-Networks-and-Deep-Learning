@@ -2,7 +2,7 @@
 
 #Function for FULL_name
 #It takes two arguments named first and last. 
-#It returns the full name by concatinationg both strings.
+#It returns the full name by concatinating both strings.
 def fullname(first,last):       
     return first+" "+last
 
