@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 # 1(a) Import the given “Data.csv”
-read_Data = pd.read_csv(r'C:\Users\charu\AssignmentNe\Neural-Networks-and-Deep-Learning\Assignment_04\data.csv')
+read_Data = pd.read_csv('data.csv')
 read_Data.info()
 
 #(c) Show the basic statistical description about the data.

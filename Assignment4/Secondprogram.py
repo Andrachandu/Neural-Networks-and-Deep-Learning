@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 # 2(a) Import the given “Salary_Data.csv”
-dst_Sal = pd.read_csv(r'C:\Users\charu\AssignmentNe\Neural-Networks-and-Deep-Learning\Assignment_04\Salary_Data (2).csv')
+dst_Sal = pd.read_csv('Salary_Data.csv')
 dst_Sal.info()
 dst_Sal.head()
 
